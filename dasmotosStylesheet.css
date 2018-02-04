@@ -1,0 +1,118 @@
+/*---------------------CSS Stylesheet Code--------------------
+
+The code below will perform the following actions on all 
+information inside CSS class element [ class="header" ]:
+
+1) changes the background color to Turquoise "turquoise".
+2) text in this section will be centered
+3) font type is changed to Helvetica
+4) font size is increased to 100 pixels
+5) font weight/style is changed from "normal" to "bold"
+6) font color is changed to khaki
+
+-------------------------------------------------------------*/
+
+.heading {
+    background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+}
+
+/*
+----------------------CSS Stylesheet Code--------------------
+
+The code below will perform the following actions on all 
+strings of text found inside HTML tag elements <h2> and <p>
+throughout the webpage:
+
+1) change the font family to "Helvetica"
+   
+------------------------------------------------------------*/
+
+h2, p {
+    font-family: Helvetica;
+  }
+
+/*---------------------CSS Stylesheet Code--------------------
+
+The code below will perform the following actions on all 
+information inside CSS class element [ class="brushes" ]:
+
+1) changes the background color to Medium Spring Green "mediumspringgreen".
+2) font type is changed to Helvetica
+3) font size is increased to 32 pixels
+4) font weight/style is changed from "normal" to "bold"
+5) font color is changed to white
+
+-------------------------------------------------------------*/
+
+.brushes {
+    background-color: mediumspringgreen;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;    
+}
+
+/*---------------------CSS Stylesheet Code--------------------
+
+The code below will perform the following actions on all 
+information inside CSS class element [ class="frames" ]:
+
+1) changes the background color to Light Coral "lightcoral".
+2) font type is changed to Helvetica
+3) font size is increased to 32 pixels
+4) font weight/style is changed from "normal" to "bold"
+5) font color is changed to white
+
+-------------------------------------------------------------*/
+
+.frames {
+    background-color: lightcoral;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;    
+}
+
+/*---------------------CSS Stylesheet Code--------------------
+
+The code below will perform the following actions on all 
+information inside CSS class element [ class="paint" ]:
+
+1) changes the background color to Sky Blue "skyblue".
+2) font type is changed to Helvetica
+3) font size is increased to 32 pixels
+4) font weight/style is changed from "normal" to "bold"
+5) font color is changed to white
+
+-------------------------------------------------------------*/
+
+.paint {
+    background-color: skyblue;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;    
+}
+
+/*
+----------------------CSS Stylesheet Code--------------------
+
+The code below will perform the following actions on text
+within the HTML element <b>: 
+
+1) font type is changed to Helvetica
+2) font weight/style is changed from "normal" to "bold"
+3) text color will be changed to blue
+
+------------------------------------------------------------*/
+
+b {
+    font-family: Helvetica; 
+    font-weight: bold;
+    color:blue;
+}
